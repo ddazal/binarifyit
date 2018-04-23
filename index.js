@@ -4,7 +4,7 @@ function testArg (arg, message) {
   }
 }
 
-module.exports = function binarify (number, bits = 0) {
+module.exports = function binarifyit (number, bits = 0) {
   testArg(number, 'First param must be a positive integer')
   testArg(bits, 'Second param must be a positive integer')
 
