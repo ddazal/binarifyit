@@ -1,5 +1,5 @@
 {
-  "name": "binarify",
+  "name": "binarifyit",
   "version": "1.0.0",
   "description": "Transform integer into specified size binary",
   "main": "index.js",
@@ -12,7 +12,6 @@
   "author": "David Daza <03dazal@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^4.19.1",
     "standard": "^11.0.1"
   }
 }
