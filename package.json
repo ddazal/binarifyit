@@ -7,5 +7,13 @@
     "binary"
   ],
   "author": "David Daza <03dazal@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ddazal/binarifyit"
+  },
+  "bugs": {
+    "url": "https://github.com/ddazal/binarifyit/issues",
+    "email": "03dazal@gmail.com"
+  }
 }
