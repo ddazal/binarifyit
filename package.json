@@ -3,15 +3,9 @@
   "version": "1.0.0",
   "description": "Transform integer into specified size binary",
   "main": "index.js",
-  "scripts": {
-    "lint": "standard"
-  },
   "keywords": [
     "binary"
   ],
   "author": "David Daza <03dazal@gmail.com>",
-  "license": "MIT",
-  "devDependencies": {
-    "standard": "^11.0.1"
-  }
+  "license": "MIT"
 }

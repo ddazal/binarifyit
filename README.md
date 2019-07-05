@@ -4,7 +4,7 @@ Transform an integer into its binary form with the desire number of bits.
 
 ## Install
 
-`npm i -S binarifyit`
+`npm i binarifyit`
 
 ## Usage
 The function receives two arguments:  `number` and `bits`. The former is the number you want to transform while the latter is the number of bits you want.
